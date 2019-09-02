@@ -1,0 +1,155 @@
+Result list of Global Search:
+<ul class="lookup__list  visible" role="presentation" data-aura-rendered-by="4905:0">
+<li class="lookup__item SEARCH_OPTION slds-text-link--reset slds-grid slds-grid--vertical-align-center slds-size_1-of-1 slds-truncate  default uiAutocompleteOption forceSearchInputDesktopOption" role="presentation" data-aura-rendered-by="11:8704;a" data-aura-class="uiAutocompleteOption forceSearchInputDesktopOption" data-interactive-uid="47">
+<a class="SEARCH_OPTION slds-text-link--reset slds-grid slds-grid--vertical-align-center slds-size_1-of-1 slds-truncate " role="option" id="1:8704;a" data-aura-rendered-by="12:8704;a" href="javascript:void(0);">
+<div class="slds-icon_container" data-aura-rendered-by="4:8704;a"><lightning-icon class="slds-icon slds-icon--small slds-icon-text-default slds-text-align--center slds-p-top--xx-small slds-m-vertical--xx-small slds-m-right--small slds-m-left--none slds-button__icon slds-icon-utility-search slds-icon_container forceIcon" data-data-rendering-service-uid="2127" data-aura-rendered-by="7:8704;a" data-aura-class="forceIcon"><lightning-primitive-icon lightning-primitiveicon_primitiveicon-host=""><svg lightning-primitiveIcon_primitiveIcon="" focusable="false" data-key="search" aria-hidden="true" class="slds-icon slds-icon_xx-small"><use lightning-primitiveIcon_primitiveIcon="" xlink:href="/_slds/icons/utility-sprite/svg/symbols.svg?cache=9.26.0#search"></use></svg></lightning-primitive-icon><span class="slds-assistive-text">Search</span></lightning-icon></div><span class="mruSearchLabel slds-text-body_regular slds-text-color_default slds-truncate slds-show slds-m-right_large slds-text-align_left slds-grow" title="&quot;Burlington&quot;" data-aura-rendered-by="8:8704;a">"Burlington"</span></a></li><li class="lookup__item MRU_GLOBAL slds-text-link--reset slds-grid slds-grid--vertical-align-center slds-size_1-of-1 slds-truncate  default uiAutocompleteOption forceSearchInputDesktopOption" role="presentation" data-aura-rendered-by="48:8704;a" data-aura-class="uiAutocompleteOption forceSearchInputDesktopOption" data-interactive-uid="48"><a class="MRU_GLOBAL slds-text-link--reset slds-grid slds-grid--vertical-align-center slds-size_1-of-1 slds-truncate " role="option" id="19:8704;a" data-aura-rendered-by="49:8704;a" href="javascript:void(0);"><div class="slds-icon_container" data-aura-rendered-by="24:8704;a"><div class="mruIcon slds-icon slds-icon--small slds-m-vertical--xx-small slds-m-right--small slds-m-left--none forceEntityIcon" style="background-color: #7F8DE1" data-aura-rendered-by="27:8704;a" data-aura-class="forceEntityIcon"><span data-aura-rendered-by="30:8704;a" class="uiImage" data-aura-class="uiImage"><img data-aura-rendered-by="28:8704;a" src="https://trailhead-iaam-dev-ed.my.salesforce.com/img/icon/t4v35/standard/account_120.png" class="icon " alt="" title=""></span></div></div><div class="slds-truncate" data-aura-rendered-by="31:8704;a"><span class="mruName slds-text-body--regular slds-text-color--default slds-truncate slds-show" title="Burlington Textiles Corp of America" data-aura-rendered-by="32:8704;a"><div dir="ltr" data-aura-rendered-by="35:8704;a" class="uiOutputRichText" data-aura-class="uiOutputRichText"><mark class="data-match" data-aura-rendered-by="36:8704;a">Burlington</mark> Textiles Corp of America</div></span><div class="slds-clearfix mruDescription slds-text-heading--label-normal slds-show slds-truncate" data-aura-rendered-by="37:8704;a"><div class="slds-float--left uiOutputRichText" dir="ltr" data-aura-rendered-by="40:8704;a" data-aura-class="uiOutputRichText">Account</div><!--render facet: 42:8704;a--><div class="slds-float--none slds-truncate uiOutputRichText" dir="ltr" data-aura-rendered-by="45:8704;a" data-aura-class="uiOutputRichText"><!--render facet: 46:8704;a--></div></div></div></a></li></ul>
+
+Single entry of result list --> result item
+<li class="lookup__item MRU_GLOBAL slds-text-link--reset slds-grid slds-grid--vertical-align-center slds-size_1-of-1 slds-truncate  default uiAutocompleteOption forceSearchInputDesktopOption"
+  role="presentation" data-aura-rendered-by="48:8704;a" data-aura-class="uiAutocompleteOption forceSearchInputDesktopOption" data-interactive-uid="48">
+<a class="MRU_GLOBAL slds-text-link--reset slds-grid slds-grid--vertical-align-center slds-size_1-of-1 slds-truncate " role="option" id="19:8704;a"
+  data-aura-rendered-by="49:8704;a" href="javascript:void(0);">
+<div class="slds-icon_container" data-aura-rendered-by="24:8704;a">
+<div class="mruIcon slds-icon slds-icon--small slds-m-vertical--xx-small slds-m-right--small slds-m-left--none forceEntityIcon" style="background-color: #7F8DE1" data-aura-rendered-by="27:8704;a" data-aura-class="forceEntityIcon">
+<span data-aura-rendered-by="30:8704;a" class="uiImage" data-aura-class="uiImage">
+<img data-aura-rendered-by="28:8704;a" src="https://trailhead-iaam-dev-ed.my.salesforce.com/img/icon/t4v35/standard/account_120.png" class="icon " alt="" title=""></span></div></div>
+<div class="slds-truncate" data-aura-rendered-by="31:8704;a">
+<span class="mruName slds-text-body--regular slds-text-color--default slds-truncate slds-show" title="Burlington Textiles Corp of America" data-aura-rendered-by="32:8704;a">
+<div dir="ltr" data-aura-rendered-by="35:8704;a" class="uiOutputRichText" data-aura-class="uiOutputRichText">
+<mark class="data-match" data-aura-rendered-by="36:8704;a">Burlington</mark> Textiles Corp of America</div></span>
+<div class="slds-clearfix mruDescription slds-text-heading--label-normal slds-show slds-truncate" data-aura-rendered-by="37:8704;a">
+<div class="slds-float--left uiOutputRichText" dir="ltr" data-aura-rendered-by="40:8704;a" data-aura-class="uiOutputRichText">Account</div><!--render facet: 42:8704;a-->
+<div class="slds-float--none slds-truncate uiOutputRichText" dir="ltr" data-aura-rendered-by="45:8704;a" data-aura-class="uiOutputRichText"><!--render facet: 46:8704;a--></div></div></div>
+</a></li>
+
+Record Actions on Account 'More'
+<li class="slds-button slds-button--icon-border-filled oneActionsDropDown" data-aura-rendered-by="2770:0" data-aura-class="oneActionsDropDown">
+  <div data-aura-rendered-by="2804:0" class="uiMenu" data-aura-class="uiMenu">
+    <div id="2772:0" data-aura-rendered-by="2782:0" class="uiPopupTrigger" data-aura-class="uiPopupTrigger" data-interactive-uid="8">
+      <div data-aura-rendered-by="2784:0" data-proxy-id="aura-pos-lib-1" id="2784:0">
+        <div data-aura-rendered-by="2777:0">
+          <a class="slds-grid slds-grid--vertical-align-center slds-grid--align-center sldsButtonHeightFix" aria-disabled="false" aria-describedby=""
+              aria-haspopup="true" tabindex="0" role="button" title="Show 8 more actions"
+              data-aura-rendered-by="2778:0" href="javascript:void(0);" aria-expanded="false">
+            <lightning-icon class="slds-button__icon slds-icon-utility-down slds-icon_container forceIcon" data-data-rendering-service-uid="543"
+                data-aura-rendered-by="2775:0" data-aura-class="forceIcon">
+              <lightning-primitive-icon lightning-primitiveicon_primitiveicon-host="">
+                <svg lightning-primitiveIcon_primitiveIcon="" focusable="false" data-key="down" aria-hidden="true" class="slds-icon slds-icon_x-small">
+                  <use lightning-primitiveIcon_primitiveIcon="" xlink:href="/_slds/icons/utility-sprite/svg/symbols.svg?cache=9.26.0#down"></use></svg>
+              </lightning-primitive-icon>
+              <span class="slds-assistive-text">Show more actions</span>
+            </lightning-icon></a></div></div></div></div></li>
+
+Opportunity Name
+<div data-aura-rendered-by="3691:0" class="uiInput uiInputText uiInput--default uiInput--input"
+    data-aura-class="uiInput uiInputText uiInput--default uiInput--input">
+  <label class="label inputLabel uiLabel-left form-element__label uiLabel" for="3382:0" data-aura-rendered-by="3686:0" data-aura-class="uiLabel">
+    <span class="" data-aura-rendered-by="3687:0">Opportunity Name</span><!--render facet: 3689:0-->
+    <span class="required " data-aura-rendered-by="3383:0">*</span>
+  </label>
+  <input class=" input" maxlength="120" type="text" aria-describedby="" placeholder="" required="" id="3382:0" data-aura-rendered-by="3386:0"
+    data-interactive-lib-uid="6" aria-required="true">
+</div>
+
+Stage (collapsed)
+<div class="slds-grid slds-gutters_small mdp cols-1 forcePageBlockSectionRow" data-aura-rendered-by="4451:0" data-aura-class="forcePageBlockSectionRow">
+  <div class="slds-grid slds-col slds-is-editing slds-has-flexi-truncate mdp forcePageBlockItem forcePageBlockItemEdit" role="listitem" style=""
+      data-aura-rendered-by="4444:0" data-aura-class="forcePageBlockItem forcePageBlockItemEdit">
+    <div class="slds-form-element slds-hint-parent" data-aura-rendered-by="4445:0">
+      <div class="slds-form-element__control" data-aura-rendered-by="4446:0">
+        <div data-aura-rendered-by="4591:0" class="uiInput uiInput--default" data-aura-class="uiInput uiInput--default">
+          <span class="label inputLabel uiPicklistLabel-left form-element__label uiPicklistLabel" data-aura-rendered-by="4586:0"
+              data-aura-class="uiPicklistLabel">
+            <span class="" id="4394:0-label" data-aura-rendered-by="4587:0">Stage</span><!--render facet: 4589:0-->
+            <span class="required " data-aura-rendered-by="4395:0">*</span>
+          </span><!--render facet: 4401:0-->
+          <div data-aura-rendered-by="4435:0" class="uiMenu uiInput uiInputSelect forceInputPicklist uiInput--default uiInput--select"
+              data-aura-class="uiMenu uiInput uiInputSelect forceInputPicklist uiInput--default uiInput--select">
+            <div id="4409:0" data-aura-rendered-by="4416:0" class="uiPopupTrigger" data-aura-class="uiPopupTrigger" data-interactive-uid="14">
+              <div data-aura-rendered-by="4418:0">
+                <div data-aura-rendered-by="4411:0">
+                  <a aria-required="true" class="select" aria-disabled="false" aria-describedby="4394:0-label" aria-haspopup="true" tabindex="0"
+                    role="button" title="" data-aura-rendered-by="4412:0" href="javascript:void(0);" data-interactive-lib-uid="17">--None--</a>
+                </div>
+              </div>
+            </div>
+            <div class="select-options popupTargetContainer uiPopupTarget uiMenuList uiMenuList--default uiMenuList--left uiMenuList--short"
+                data-aura-rendered-by="4430:0" data-aura-class="uiPopupTarget uiMenuList uiMenuList--default uiMenuList--left uiMenuList--short"
+                aria-labelledby="4409:0">
+              <div class="select-options" role="menu" data-aura-rendered-by="4424:0"><!--render facet: 4425:0-->
+                <ul class="scrollable" role="presentation" data-aura-rendered-by="4426:0" data-scoped-scroll="true"><!--render facet: 4427:0--></ul>
+              </div>
+            </div>
+          </div><!--render facet: 4439:0-->
+        </div><!--render facet: 4442:0-->
+      </div>
+    </div>
+  </div>
+</div>
+
+Stage (expanded)
+<div class="select-options" role="menu" data-aura-rendered-by="3555:0"><!--render facet: 3556:0-->
+  <ul class="scrollable" role="presentation" data-aura-rendered-by="3557:0" data-scoped-scroll="true"><!--render facet: 4066:0-->
+    <li role="presentation" data-aura-rendered-by="4070:0" class="uiMenuItem uiRadioMenuItem" data-aura-class="uiMenuItem uiRadioMenuItem">
+      <a data-aura-rendered-by="4071:0" href="javascript:void(0);" role="menuitemradio" aria-disabled="false" tabindex="0" title="--None--"
+          aria-checked="true" class="selected"><b></b>--None--</a>
+    </li><
+    li role="presentation" data-aura-rendered-by="4076:0" class="uiMenuItem uiRadioMenuItem" data-aura-class="uiMenuItem uiRadioMenuItem"><a data-aura-rendered-by="4077:0" href="javascript:void(0);" role="menuitemradio" aria-disabled="false" tabindex="0" title="Prospecting" aria-checked="false"><b></b>Prospecting</a></li><li role="presentation" data-aura-rendered-by="4082:0" class="uiMenuItem uiRadioMenuItem" data-aura-class="uiMenuItem uiRadioMenuItem"><a data-aura-rendered-by="4083:0" href="javascript:void(0);" role="menuitemradio" aria-disabled="false" tabindex="0" title="Qualification" aria-checked="false"><b></b>Qualification</a></li>
+    <li role="presentation" data-aura-rendered-by="4088:0" class="uiMenuItem uiRadioMenuItem" data-aura-class="uiMenuItem uiRadioMenuItem">
+      <a data-aura-rendered-by="4089:0" href="javascript:void(0);" role="menuitemradio" aria-disabled="false" tabindex="0" title="Needs Analysis" aria-checked="false"><b></b>Needs Analysis</a></li>
+    <li role="presentation" data-aura-rendered-by="4094:0" class="uiMenuItem uiRadioMenuItem" data-aura-class="uiMenuItem uiRadioMenuItem">
+      <a data-aura-rendered-by="4095:0" href="javascript:void(0);" role="menuitemradio" aria-disabled="false" tabindex="0" title="Value Proposition" aria-checked="false"><b></b>Value Proposition</a></li><li role="presentation" data-aura-rendered-by="4100:0" class="uiMenuItem uiRadioMenuItem" data-aura-class="uiMenuItem uiRadioMenuItem"><a data-aura-rendered-by="4101:0" href="javascript:void(0);" role="menuitemradio" aria-disabled="false" tabindex="0" title="Id. Decision Makers" aria-checked="false"><b></b>Id. Decision Makers</a></li><li role="presentation" data-aura-rendered-by="4106:0" class="uiMenuItem uiRadioMenuItem" data-aura-class="uiMenuItem uiRadioMenuItem"><a data-aura-rendered-by="4107:0" href="javascript:void(0);" role="menuitemradio" aria-disabled="false" tabindex="0" title="Perception Analysis" aria-checked="false"><b></b>Perception Analysis</a></li><li role="presentation" data-aura-rendered-by="4112:0" class="uiMenuItem uiRadioMenuItem" data-aura-class="uiMenuItem uiRadioMenuItem"><a data-aura-rendered-by="4113:0" href="javascript:void(0);" role="menuitemradio" aria-disabled="false" tabindex="0" title="Proposal/Price Quote" aria-checked="false"><b></b>Proposal/Price Quote</a></li><li role="presentation" data-aura-rendered-by="4118:0" class="uiMenuItem uiRadioMenuItem" data-aura-class="uiMenuItem uiRadioMenuItem"><a data-aura-rendered-by="4119:0" href="javascript:void(0);" role="menuitemradio" aria-disabled="false" tabindex="0" title="Negotiation/Review" aria-checked="false"><b></b>Negotiation/Review</a></li><li role="presentation" data-aura-rendered-by="4124:0" class="uiMenuItem uiRadioMenuItem" data-aura-class="uiMenuItem uiRadioMenuItem"><a data-aura-rendered-by="4125:0" href="javascript:void(0);" role="menuitemradio" aria-disabled="false" tabindex="0" title="Closed Won" aria-checked="false"><b></b>Closed Won</a></li><li role="presentation" data-aura-rendered-by="4130:0" class="uiMenuItem uiRadioMenuItem" data-aura-class="uiMenuItem uiRadioMenuItem"><a data-aura-rendered-by="4131:0" href="javascript:void(0);" role="menuitemradio" aria-disabled="false" tabindex="0" title="Closed Lost" aria-checked="false"><b></b>Closed Lost</a></li></ul></div>
+
+Amount
+<div data-aura-rendered-by="3732:0" class="uiInput uiInput--default" data-aura-class="uiInput uiInput--default">
+  <label class="label inputLabel uiLabel-left form-element__label uiLabel" for="3586:0" data-aura-rendered-by="3727:0" data-aura-class="uiLabel">
+    <span class="" data-aura-rendered-by="3728:0">Amount</span><!--render facet: 3730:0--><!--render facet: 3731:0-->
+  </label>
+  <input class="input uiInput uiInput--default uiInput--input" min="-99999999999999" id="3586:0" max="99999999999999" step="1"
+      type="text" aria-describedby="" placeholder="" data-aura-rendered-by="3639:0" data-aura-class="uiInput uiInput--default uiInput--input"
+      data-interactive-lib-uid="11"><!--render facet: 3642:0-->
+</div>
+
+
+Next Step
+<div data-aura-rendered-by="3741:0" class="uiInput uiInputText uiInput--default uiInput--input"
+    data-aura-class="uiInput uiInputText uiInput--default uiInput--input">
+  <label class="label inputLabel uiLabel-left form-element__label uiLabel" for="3655:0" data-aura-rendered-by="3736:0" data-aura-class="uiLabel">
+    <span class="" data-aura-rendered-by="3737:0">Next Step</span><!--render facet: 3739:0--><!--render facet: 3740:0--></label>
+  <input class=" input" maxlength="255" type="text" aria-describedby="" placeholder="" id="3655:0" data-aura-rendered-by="3659:0"
+      data-interactive-lib-uid="12"></div>
+
+Save button
+<div class="modal-footer slds-modal__footer" data-aura-rendered-by="5398:0">
+  <button class="slds-button slds-button--neutral cuf-publisherCancelButton uiButton--default uiButton--brand uiButton" aria-live="off" type="button"
+      data-aura-rendered-by="5384:0" data-aura-class="uiButton--default uiButton--brand uiButton"><!--render facet: 5385:0-->
+    <span class=" label bBody" dir="ltr" data-aura-rendered-by="5387:0">Cancel</span><!--render facet: 5389:0--></button>
+  <button class="slds-button slds-button_brand cuf-publisherShareButton undefined uiButton" aria-live="off" type="button"
+      data-aura-rendered-by="5392:0" data-aura-class="uiButton"><!--render facet: 5393:0-->
+    <span class=" label bBody" dir="ltr" data-aura-rendered-by="5395:0">Save</span><!--render facet: 5397:0--></button></div>
+
+Success Message
+<div class="slds-theme--success slds-notify--toast slds-notify slds-notify--toast forceToastMessage" data-key="success" role="alert" 
+    data-aura-rendered-by="6127:0" data-aura-class="forceToastMessage">
+  <lightning-icon class="toastIcon slds-m-right--small slds-no-flex slds-align-top slds-icon-utility-success slds-icon_container"
+      data-data-rendering-service-uid="1000" data-aura-rendered-by="6129:0">
+    <lightning-primitive-icon lightning-primitiveicon_primitiveicon-host="">
+      <svg lightning-primitiveIcon_primitiveIcon="" focusable="false" data-key="success" aria-hidden="true" class="slds-icon slds-icon_small">
+        <use lightning-primitiveIcon_primitiveIcon="" xlink:href="/_slds/icons/utility-sprite/svg/symbols.svg?cache=9.26.0#success"></use></svg>
+    </lightning-primitive-icon>
+    <span class="slds-assistive-text">success</span></lightning-icon>
+  <div class="toastContent slds-notify__content" data-aura-rendered-by="6130:0">
+    <div class="slds-align-middle slds-hyphenate" data-aura-rendered-by="6131:0"><!--render facet: 6132:0-->
+      <span class="toastMessage slds-text-heading--small forceActionsText" data-aura-rendered-by="6137:0" data-aura-class="forceActionsText">
+        Opportunity <a href="javascript:void(0)" title="sfdsf" data-aura-rendered-by="6158:0" class="forceActionLink" data-aura-class="forceActionLink">
+          <div class="slds-truncate" title="sfdsf" data-aura-rendered-by="6159:0">sfdsf</div></a> was created.</span></div></div>
+  <button class="slds-button toastClose slds-notify__close slds-button--icon-inverse slds-button_icon-bare" type="button" title="Close"
+      data-aura-rendered-by="6152:0">
+    <lightning-primitive-icon data-aura-rendered-by="6153:0" lightning-primitiveicon_primitiveicon-host="">
+      <svg lightning-primitiveIcon_primitiveIcon="" focusable="false" data-key="close" aria-hidden="true"
+          class="slds-button__icon slds-button__icon--large">
+        <use lightning-primitiveIcon_primitiveIcon="" xlink:href="/_slds/icons/utility-sprite/svg/symbols.svg?cache=9.26.0#close"></use></svg>
+    </lightning-primitive-icon>
+    <span class="slds-assistive-text" data-aura-rendered-by="6155:0">Close</span>
+  </button>
+</div>
