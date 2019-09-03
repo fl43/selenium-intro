@@ -45,13 +45,11 @@ public class CreateOpportunityTest {
 	public void erstelleVorhabenAufdemGP() throws InterruptedException {
 		SimpleDateFormat sdf = new SimpleDateFormat("YY-MM-dd HH:mm"); // "yyyy-MM-dd HH:mm:ss.SSS"
 
-		// StartPage startPage = new StartPage(driver,
-		// "https://magentaforce--dev01.my.salesforce.com");
 		StartPage startPage = new StartPage(driver, "https://trailhead-iaam-dev-ed.my.salesforce.com");
 
-		// HomePage homePage = startPage.doLogin("falk.lehmann@telekom-cebit.com.dev01",
+		// HomePage homePage = startPage.doLogin("...",
 		// "???");
-		HomePage homePage = startPage.doLogin("falk.lehmann@nttdata.com.iaam", "fl3salesforce5");
+		HomePage homePage = startPage.doLogin("lazy.beaver@nttdata.com.iaam", "REPLACE_THIS");
 
 		// TODO FL delete homePage.impersonateUser("magentaforce2@telekom.demo.int2");
 

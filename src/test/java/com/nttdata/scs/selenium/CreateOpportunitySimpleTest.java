@@ -51,7 +51,7 @@ public class CreateOpportunitySimpleTest {
 		
 		// login
 		driver.findElement(By.id("username")).sendKeys("lazy.beaver@nttdata.com.iaam");
-		driver.findElement(By.id("password")).sendKeys("fl3salesforce4");
+		driver.findElement(By.id("password")).sendKeys("REPLACE_THIS");
 		driver.findElement(By.id("Login")).click();
 		
 		// use Global Search

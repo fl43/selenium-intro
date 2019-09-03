@@ -73,7 +73,7 @@ public class CreateOpportunityRecordedTest {
 		driver.findElement(By.id("username")).click();
 		driver.findElement(By.id("username")).sendKeys("lazy.beaver@nttdata.com.iaam");
 		driver.findElement(By.id("content")).click();
-		driver.findElement(By.id("password")).sendKeys("fl3salesforce4");
+		driver.findElement(By.id("password")).sendKeys("REPLACE_THIS");
 		driver.findElement(By.id("password")).sendKeys(Keys.ENTER);
 		driver.findElement(By.cssSelector(".navItem:nth-child(6) use")).click();
 		driver.findElement(By.cssSelector(".slds-dropdown__item:nth-child(5) .slds-truncate > span")).click();
